@@ -1,0 +1,36 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto 20px 300px;
+  margin-top: -15px;
+}
+
+.grid-item {
+  
+  
+  
+}
+
+body {
+  background-color: #FFF3B1;
+}
+
+.grid-item1 {
+    margin-left:-10px;
+    background-color: #FFFFFF;
+    border-color: black;
+  box-shadow: 2px 2px 8px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.grid-item2 {
+
+    margin-right: -30px;
+    background-color: #FFFFFF;
+    border-color: black;
+  box-shadow: 2px 2px 8px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 10px;
+}
